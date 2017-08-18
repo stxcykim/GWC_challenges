@@ -1,0 +1,49 @@
+body {
+  font-family: "Open Sans";
+  background-color: #6eceb2;
+  padding: 20px 70px 20px 70px;
+  width: 75%;
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+button {
+  font-family: "Open Sans";
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  font-family: 'Gruppo', cursive;
+  font-weight: 800;
+}
+button:hover{
+  color:black;
+  background-color: white;
+}
+
+div {
+  background-color: white;
+  padding: 20px;
+}
+
+p {
+  color: white;
+  font-family: 'Gruppo', cursive;
+  font-weight: 800;
+  font-size: 20px;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-family: 'Zilla Slab', serif;
+}
+
+.content {
+  border: 2px;
+  background-color: #6eceb2;
+  height: 250px;
+  padding: 30px 50px 30px 50px;
+}

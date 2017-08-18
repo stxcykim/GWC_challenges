@@ -1,0 +1,20 @@
+
+body {
+	background-color:  	#FFFF99;
+}
+h1{
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 40px;
+}
+p{
+  font-family: 'Zilla Slab Highlight', cursive;
+  font-size: 20px;
+}
+button{
+  font-family: 'Raleway', sans-serif;
+  background-color: black;
+  color:white;
+  padding:20px;
+  border-radius: 10px;
+  width:80%;
+}
